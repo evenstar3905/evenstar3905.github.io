@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 的域所有权验证文件 - 放置在网站根目录中",
+  "Domain": "koto.eu.org",
+  "Id": "c5adfb52-4f88-43ec-a9d1-888407d83763"
+}
